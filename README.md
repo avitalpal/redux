@@ -1,5 +1,5 @@
 # Wiz-Playgrounds
-Welcome! This repo holds a playground React app to test React Router (compatible with TailwindCSS!)
+Welcome! This repo holds a playground React app to test Redux stores and session management
 
 1. Feel free to clone any of the code here and play around with it yourself, that's what this is for!
 
