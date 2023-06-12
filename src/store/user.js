@@ -1,6 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit'
 import { sessionService } from 'redux-react-session';
-// Slice
 
 const initialUser = localStorage.getItem('user')
     ? JSON.parse(localStorage.getItem('user'))

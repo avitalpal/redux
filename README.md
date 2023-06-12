@@ -1,16 +1,18 @@
-# Wiz-Playgrounds
-Welcome! This repo holds a playground React app to test Redux stores and session management
+# Note: This playground is in progress!
+# Redux-Playground
+Welcome! This repo holds a playground React app to test features of Redux and state storage for Wiz Robotics (previous company)
 
 1. Feel free to clone any of the code here and play around with it yourself, that's what this is for!
 
-To clone the whole repo: `git clone https://github.com/uploadwizrobotics/Wiz-Playground-Redux`
+To clone the whole repo: `git clone https://github.com/avitalpal/redux`
 
-2. To be able to use the features, make sure to run `npm install` for anything you may have to install locally from `package.json`
+2. To be able to use the features, make sure to check out `DEPENDENCIES.txt` for anything you may have to install locally
+
+# Previously required instructions
 
 3. Please do not commit any changes you make unless they are specifically to improve the playgrounds! We want these to be useable and easy to navigate in the future :)
 
 4. When committing a new change, please make sure to create a concise but clear message, so that we can easily tell what edits were made and pushed
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
